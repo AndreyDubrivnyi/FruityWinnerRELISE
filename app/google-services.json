@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "334481347369",
+    "project_id": "fruitywinner-c1d12",
+    "storage_bucket": "fruitywinner-c1d12.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:334481347369:android:061f93d06d28841a73dd38",
+        "android_client_info": {
+          "package_name": "com.fruity.fruitywinner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "334481347369-99c064u2rj651vfucr13o3duqlelfn2u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpDDfBj4MeC9jPReRc_NnURZP3_913sD0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "334481347369-99c064u2rj651vfucr13o3duqlelfn2u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,1 @@
+configure_file(${CMAKE_CURRENT_SOURCE_DIR}/../../my_secrets.properties ${CMAKE_CURRENT_BINARY_DIR}/my_secrets.properties COPYONLY)
